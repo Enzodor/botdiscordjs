@@ -1,0 +1,12 @@
+{
+  "name": "Projet",
+  "version": "0.1.0",
+  "description": "Projet Discord",
+  "main": "main.js",
+  "repository": "https://github.com/Enzodor/botdiscordjs.git",
+  "author": "EnzoEpie <enzoepie9@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
